@@ -1,5 +1,4 @@
-
-✨ Frontend Developer specializing in React, TypeScript & Next.js. I enjoy building scalable products and experimenting with AI-powered interfaces.
+Frontend Developer 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IncubatorSamurai&repo=Inctagram&theme=graywhite)](https://github.com/IncubatorSamurai/Inctagram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=it-incubator&repo=musicfun-react-all-stacks&theme=graywhite)](https://github.com/it-incubator/musicfun-react-all-stacks)
