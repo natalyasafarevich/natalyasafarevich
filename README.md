@@ -1,4 +1,4 @@
-Frontend Developer 
+**Frontend Developer**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IncubatorSamurai&repo=Inctagram&theme=graywhite)](https://github.com/IncubatorSamurai/Inctagram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=it-incubator&repo=musicfun-react-all-stacks&theme=graywhite)](https://github.com/it-incubator/musicfun-react-all-stacks)
